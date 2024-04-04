@@ -1,2 +1,2 @@
-# heroku-ml-deployment
-Heroku ML Deployment
+# Machine Learning project
+
